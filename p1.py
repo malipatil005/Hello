@@ -5,4 +5,5 @@ b=20
 print("Sum is : ",(a+b))
 
 sum=a+b
-print("Sum is : ",sum)
+print("Sum is : ",sum);
+
